@@ -1,0 +1,28 @@
+{
+  "name": "get-tickets-from-tiket.com",
+  "version": "0.1.1",
+  "description": "This NPM Scrape tickets from tiket.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamsaparudin/npm-package.git"
+  },
+  "keywords": [
+    "scraping",
+    "ticket",
+    "airplane"
+  ],
+  "author": "Adam Saparudin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamsaparudin/npm-package/issues"
+  },
+  "homepage": "https://github.com/adamsaparudin/npm-package#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  }
+}
